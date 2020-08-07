@@ -1,5 +1,3 @@
-# Docler test case.
-
 This package containes all required files including vendors and sqlite database.
 To run test server just type:
 
